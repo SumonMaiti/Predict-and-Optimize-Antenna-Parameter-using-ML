@@ -184,7 +184,21 @@ Key outcomes include:
 - Develop fully automated AI-assisted antenna design frameworks.
 
 ---
+## Team
 
+This project was developed as part of the B.Tech Final Year Project by:
+
+- Sumon Maiti
+- Rajat Chakraborty
+- Sayan Pal
+- Sumit Kumar Bhakat
+- Subhadep Dey
+
+### Mentor
+
+Special thanks to **Prof. Rakhi Neogi** for her invaluable guidance, support, and mentorship throughout the project.
+
+⭐ We are grateful for her encouragement and technical insights, which helped shape this work from concept to completion.
 ## Authors
 
 **Sumon Maiti**  
