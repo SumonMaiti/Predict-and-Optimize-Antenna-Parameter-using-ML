@@ -84,9 +84,10 @@ Differential Evolution (DE) was used to determine the optimal antenna parameters
 
 | Parameter | Value |
 |------------|------------|
-| Xrad | 7.4 mm |
-| Yrad | 7.0 mm |
-| Ycenter | 12.7 mm |
+| Xrad | 6.0 mm |
+| Yrad | 7.0002 mm |
+| Xcenter | 0.0015 mm |
+| Ycenter | 12.6999 mm |
 
 ---
 
